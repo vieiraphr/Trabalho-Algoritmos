@@ -4,28 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1d444e-256c-452b-8a06-bf2e9c4a76d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonManuel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10delta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11desconto5%.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12salario15%aumento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13locadoracarros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14horastrabalhadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15vidafumante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2welcome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3nome-salario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4soma-intnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5nota-aluno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6anteEsuce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7dobroterca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8dolarEreal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9tintaparede.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    <list default="true" id="1e1d444e-256c-452b-8a06-bf2e9c4a76d2" name="Changes" comment="trabalho manuel">
+      <change afterPath="$PROJECT_DIR$/16multakmhora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17idadevotacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18mediaaluno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vieiraphr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vieiraphr/Trabalho-Algoritmos.git",
+    "accountId": "1083e2ba-a81d-44b3-9f24-91770989f8f1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -61,6 +56,9 @@
     "Python.12salario15%aumento.executor": "Run",
     "Python.13locadoracarros.executor": "Run",
     "Python.14horastrabalhadas.executor": "Run",
+    "Python.15vidafumante.executor": "Run",
+    "Python.16multakmhora.executor": "Run",
+    "Python.17idadevotacao.executor": "Run",
     "Python.3nome-salario.executor": "Run",
     "Python.4soma-intnumber.executor": "Run",
     "Python.5nota-aluno.executor": "Run",
@@ -99,12 +97,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775224312267</updated>
-      <workItem from="1775224313752" duration="11600000" />
+      <workItem from="1775224313752" duration="15649000" />
     </task>
+    <task id="LOCAL-00001" summary="trabalho manuel">
+      <option name="closed" value="true" />
+      <created>1775240667064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775240667064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trabalho manuel" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabalho manuel" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonManuel$10delta.coverage" NAME="10delta Coverage Results" MODIFIED="1775233224948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -115,6 +126,7 @@
     <SUITE FILE_PATH="coverage/PythonManuel$3nome_salario.coverage" NAME="3nome-salario Coverage Results" MODIFIED="1775225973792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$9tintaparede.coverage" NAME="9tintaparede Coverage Results" MODIFIED="1775227565177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$welcome.coverage" NAME="welcome Coverage Results" MODIFIED="1775224444427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonManuel$17idadevotacao.coverage" NAME="17idadevotacao Coverage Results" MODIFIED="1775242096048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1775224358942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$12salario15_aumento.coverage" NAME="12salario15%aumento Coverage Results" MODIFIED="1775235770355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$nome_salario.coverage" NAME="nome-salario Coverage Results" MODIFIED="1775225075008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -122,5 +134,7 @@
     <SUITE FILE_PATH="coverage/PythonManuel$6anteEsuce.coverage" NAME="6anteEsuce Coverage Results" MODIFIED="1775226185375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$8dolarEreal.coverage" NAME="8dolarEreal Coverage Results" MODIFIED="1775227241198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonManuel$11desconto5_.coverage" NAME="11desconto5% Coverage Results" MODIFIED="1775235044375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonManuel$15vidafumante.coverage" NAME="15vidafumante Coverage Results" MODIFIED="1775240631938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonManuel$16multakmhora.coverage" NAME="16multakmhora Coverage Results" MODIFIED="1775241787730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
